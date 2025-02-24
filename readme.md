@@ -1,3 +1,3 @@
 # first_repository
 
-it is practice page
+it is exercise book
